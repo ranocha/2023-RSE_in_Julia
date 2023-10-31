@@ -9,3 +9,8 @@ Test
 
 Felix war hier!
 
+
+In the code's embrace, on GitHub we share,
+Julia's language, elegant and rare,
+Together they dance, a tech-savvy pair,
+Creating software with utmost flair.
