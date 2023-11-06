@@ -2,7 +2,13 @@
 # Research Software Engineering in Julia
 
 Repository supporting the course "Research Software Engineering in Julia"
-at Johannes Gutenberg University Mainz in the winter term 2023/2024
+at Johannes Gutenberg University Mainz in the winter term 2023/2024.
+This repository is just used as a demonstration how to contribute to
+repositories on GitHub. The teaching material will be distributed via
+the Moodle platform of JGU Mainz.
+
+
+## Contributions while learning how to make a PR on GitHub
 
 - Ich war hier.
 - Test
