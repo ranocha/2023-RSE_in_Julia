@@ -1,0 +1,2 @@
+# You should not check in a Manifest.toml for a Julia package
+Manifest.toml
