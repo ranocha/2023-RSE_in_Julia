@@ -1,0 +1,4 @@
+name = "RSEinJulia"
+uuid = "04c50a76-e8fa-4e63-9ed2-48fcaf2fb55d"
+authors = ["Hendrik Ranocha <mail@ranocha.de> and contributors"]
+version = "0.1.0"
