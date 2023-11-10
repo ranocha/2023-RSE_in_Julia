@@ -1,9 +1,9 @@
 # PositiveIntegrators.jl API
 
 ```@meta
-CurrentModule = PositiveIntegrators
+CurrentModule = RSEinJulia
 ```
 
 ```@autodocs
-Modules = [PositiveIntegrators]
+Modules = [RSEinJulia]
 ```
