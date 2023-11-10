@@ -1,6 +1,7 @@
-# 2023-RSE_in_Julia
+# Research Software Engineering in Julia
 
-Repository supporting the course "Research Software Engineering in Julia"
+The repository [`2023-RSE_in_Julia`](https://github.com/ranocha/2023-RSE_in_Julia)
+supports the course "Research Software Engineering in Julia"
 at Johannes Gutenberg University Mainz in the winter term 2023/2024.
 This repository is just used as a demonstration how to contribute to
 repositories on GitHub. The teaching material will be distributed via
