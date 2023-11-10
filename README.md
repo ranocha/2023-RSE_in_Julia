@@ -15,7 +15,7 @@ the Moodle platform of JGU Mainz.
 - Felix war hier!
 - Test123
 
-It's [Johannes Gutenberg-Universität Mainz](https://universitaet.uni-mainz.de) in German 
+It's [Johannes Gutenberg-Universität Mainz](https://universitaet.uni-mainz.de) in German
 and [Johannes Gutenberg University](https://university.uni-mainz.de) in English!
 
 ```
