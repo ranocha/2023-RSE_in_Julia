@@ -2,7 +2,9 @@ using Documenter
 using Pkg: Pkg
 
 # Fix for https://github.com/trixi-framework/Trixi.jl/issues/668
-if (get(ENV, "CI", nothing) != "true") && (get(ENV, "JULIA_DOC_DEFAULT_ENVIRONMENT", nothing) != "true")
+# to allow building the docs locally
+if (get(ENV, "CI", nothing) != "true") &&
+   (get(ENV, "JULIA_DOC_DEFAULT_ENVIRONMENT", nothing) != "true")
     push!(LOAD_PATH, dirname(@__DIR__))
 end
 
